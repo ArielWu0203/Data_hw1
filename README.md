@@ -9,4 +9,4 @@
   * 達終止條件時，回傳n/r。
 * 程式架構
   * if (達終止條件) 回傳數值。
-  </enter>else call function。(n--;r--;)
+    else call function。(n--;r--;)
